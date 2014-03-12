@@ -1,0 +1,38 @@
+@import url('http://fonts.googleapis.com/css?family=Miltonian');
+
+body {
+    font-family: Miltonian;
+    color: #eee;
+    background-color: #333;
+    text-shadow: 2px 2px 2px #444;
+    margin: 10px;
+    background: url('green_cup.png');
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+}
+
+div#main {
+    margin-top: 150px;
+}
+
+a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bbb;
+}
+
+footer {
+    font-size: 1em;
+    text-align: center;
+}

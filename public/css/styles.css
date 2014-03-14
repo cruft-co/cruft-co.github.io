@@ -2,11 +2,13 @@
 
 body {
     font-family: 'Cardo';
-    color: #eee;
+    color: #DB4F18;
     background-color: #333;
     margin: 10px;
     background: url('green_cup.png');
-    opacity: 0.8;
+    opacity: 0.7;
+    text-shadow: 0px 2px 3px #ddd;
+
 }
 
 h1 {
@@ -27,12 +29,12 @@ div#main {
 }
 
 a {
-    color: #ddd;
+    color: #A34018;
     text-decoration: none;
 }
 
 a:hover {
-    color: #eee;
+    color: #DB4F18;
 }
 
 footer {

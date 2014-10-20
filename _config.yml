@@ -1,0 +1,10 @@
+defaults:
+  -
+    scope:
+      path: ''
+
+    values:
+      layout: default
+      title: Messrs. Obadiah CRUFT & Company, London, EC.
+
+permalink: pretty
